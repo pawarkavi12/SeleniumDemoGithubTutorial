@@ -15,6 +15,16 @@ public class SanityThree {
 		System.out.println("Run n2() method");
 	}
 	@Test  
+	void n4()
+	{
+		System.out.println("Run n4() method");
+	}
+	@Test  
+	void n5()
+	{
+		System.out.println("Run n5() method");
+	}
+	@Test  
 	void n3()
 	{
 		System.out.println("Run n3() method");
